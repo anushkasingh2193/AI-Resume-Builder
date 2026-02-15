@@ -116,7 +116,7 @@ Contributions are welcome! Here's how you can contribute:
 
 ## 📢 Notice
 
-As of February 2025, the website has exceeded its maximum user limit (500 users).
+As of February 2026, the website has exceeded its maximum user limit (500 users).
 To continue testing the project, please fork the repository, set up the required environment variables, and run it locally.
 
 ## 📬 Contact
