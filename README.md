@@ -102,7 +102,7 @@ Replace the placeholder values with your actual credentials. You can obtain thes
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+
 
 ## 🤝 Contributing
 
@@ -123,4 +123,4 @@ To continue testing the project, please fork the repository, set up the required
 
 Wanna reach out to me? DM me at 👇
 
-Email: mahmudul15-13791@diu.edu.bd
+Email: anushkasingh2193@gmail.com
